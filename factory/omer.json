@@ -1,0 +1,9 @@
+{
+	"name": "omer",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a921686-3433-4c45-95b4-d1866f13e6db",
+		"tenantId": "6f3c77c3-965f-4e11-8846-de7700145aef"
+	}
+}
